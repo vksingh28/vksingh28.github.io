@@ -9,12 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
-    <p style="text-align:center;">vansh at utexas.edu</p>
+    <p style="text-align:right;">vansh at utexas.edu</p>
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 I am a second-year doctoral student in the [Department of Statistics and Data Sceinces](https://stat.utexas.edu/) at the Univesity of Texas at Austin, where I am jointly advised by [Alessandro Rinaldo](https://arinaldo.github.io/) and [Purnamrita Sarkar](https://psarkar.github.io/). My research focuses on the intersection of high-dimensional statistics and deep learning, with an interest in developing computationally efficient sampling algorithms and applying them to statiscal inference problems, uncertainty quantification and fairness.
