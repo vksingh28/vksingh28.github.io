@@ -6,7 +6,6 @@ description:
 nav: true
 nav_order: 2
 ---
-to be updated soon.
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
