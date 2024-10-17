@@ -1,10 +1,9 @@
 ---
-layout: null
+layout: page
+title: cv
 permalink: /cv/
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
-<script type="text/javascript">
-    window.location.href = "{{ site.baseurl }}/assets/pdf/cv_new.pdf";
-</script>
+[cv.pdf](https://drive.google.com/file/d/1yjSwwNX84a36wk0ElpEPfB8euFthmwcu/view?usp=drive_link)
