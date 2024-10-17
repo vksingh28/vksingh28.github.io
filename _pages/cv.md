@@ -1,6 +1,8 @@
 ---
 layout: null
 permalink: /cv/
+nav: true
+nav_order: 5
 ---
 
 <script type="text/javascript">
