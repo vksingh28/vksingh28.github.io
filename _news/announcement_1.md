@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the Department of Statistics and Data Sciences, UT Austin as a PhD student.
+Joined the Department of Statistical Sciences, Duke University as a PhD student.
