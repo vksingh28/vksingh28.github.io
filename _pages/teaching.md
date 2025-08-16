@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-I have served as a teaching assistant for the following courses at UT Austin:
+I have served as a teaching assistant for the following courses at Duke University:
 
 - STA721 : Linear Models (Graduate)
 - STA732 : Statistical Inference (Graduate)
