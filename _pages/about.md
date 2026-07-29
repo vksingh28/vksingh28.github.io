@@ -17,6 +17,6 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a second-year doctoral candidate in the [Department of Statistical Sciences](https://stat.duke.edu/) at the Duke University, where I am working with [Prof. Peter Hoff](https://pdhoff.github.io/) and [Prof. Simon Mak](https://sites.google.com/view/simonmak/home). Previously, I completed my bachelor's degree in the [Department of Mathematics and Statistics](https://www.iitk.ac.in/math) at the Indian Institute of Technology, Kanpur, where I was advised by [Prof. Dootika Vats](https://dvats.github.io/). 
+I am a fourth-year doctoral candidate in the [Department of Statistical Sciences](https://stat.duke.edu/) at the Duke University, where I am working with [Prof. Peter Hoff](https://pdhoff.github.io/) and [Prof. Simon Mak](https://sites.google.com/view/simonmak/home). Previously, I completed my bachelor's degree in the [Department of Mathematics and Statistics](https://www.iitk.ac.in/math) at the Indian Institute of Technology, Kanpur, where I was advised by [Prof. Dootika Vats](https://dvats.github.io/). 
 
-My research explores how the geometry of a dataset can be used to create better methods for statistical inference. I'm currently focusing on linear unmixing models and hyperspectral imaging datasets. 
+My research interests are: statistical inference using transformation models, high-dimensional bayesian optimization on manifolds, positive data analysis, spectral unmixing.
