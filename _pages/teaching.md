@@ -11,7 +11,7 @@ I have served as a teaching assistant for the following courses at Duke Universi
 
 Current 
 
-- Fall 2026 : STA721 - Linear Models (Graduate)
+- Fall 2026 : [STA721](/teaching/sta721/) - Linear Models (Graduate)
 
 Past
 
